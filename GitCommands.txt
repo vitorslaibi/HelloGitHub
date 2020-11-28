@@ -1,0 +1,8 @@
+1. git push 
+Adds the local changes made to code a remote repository
+2. git pull
+Downloads commits that don't exist in a machine from a remote repository
+3. git merge
+Command used to to merge branches togheter to update the changes made in each
+4. git clone
+Clone a existing repository into a new directory in the local machine
